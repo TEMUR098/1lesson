@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2A5D5A;
+}
+
+h1 {
+    background-color: #311313;
+    font-size: 64px;
+    font-weight: 700;
+    margin: 22px auto;
+    width: 636px;
+    text-align: center;
+    color: white;
+    padding: 24px 17px;
+}
+
+.block {
+    background-color: black;
+    border: 10px solid red;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.red {
+    background-color: #1FE8B7;
+    margin: 45px 52px;
+    padding: 54px 40px;
+    font-size: 24px;
+    font-weight: 700;
+}
